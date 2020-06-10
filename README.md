@@ -1,3 +1,2 @@
 # hello-world
-Just another repository 
-One of my favorite go to menu items is seis tacos de tripa!
+This is a repository for my personal website.
